@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "822620880543",
+    "firebase_url": "https://school-430c2.firebaseio.com",
+    "project_id": "school-430c2",
+    "storage_bucket": "school-430c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822620880543:android:db211493adbb4e73",
+        "android_client_info": {
+          "package_name": "com.mxn.soul.flowingdrawer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822620880543-5ckoltu1tpibbspm2kc1rbeddn1ocd50.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mxn.soul.flowingdrawer",
+            "certificate_hash": "4d7eb5a9a3e82b29e0e3cab8a48783b34eb0f57a"
+          }
+        },
+        {
+          "client_id": "822620880543-bgcecide9cpdtgh9d6h6mk0ekuasdg5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4wxV2G6y20ye8G6FSIPbGaK-SXaXmgew"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822620880543-bgcecide9cpdtgh9d6h6mk0ekuasdg5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
