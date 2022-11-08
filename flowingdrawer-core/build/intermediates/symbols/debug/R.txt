@@ -1,0 +1,12 @@
+int attr edMaxAnimationDuration 0x7f040001
+int attr edMenuBackground 0x7f040002
+int attr edMenuSize 0x7f040003
+int attr edPosition 0x7f040004
+int attr edTouchBezelSize 0x7f040005
+int attr elasticDrawerStyle 0x7f040006
+int[] styleable ElasticDrawer { 0x7f040001, 0x7f040002, 0x7f040003, 0x7f040004, 0x7f040005 }
+int styleable ElasticDrawer_edMaxAnimationDuration 0
+int styleable ElasticDrawer_edMenuBackground 1
+int styleable ElasticDrawer_edMenuSize 2
+int styleable ElasticDrawer_edPosition 3
+int styleable ElasticDrawer_edTouchBezelSize 4

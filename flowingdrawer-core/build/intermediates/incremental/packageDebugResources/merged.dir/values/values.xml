@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr format="reference" name="elasticDrawerStyle"/>
+    <declare-styleable name="ElasticDrawer"><attr format="color" name="edMenuBackground"/><attr format="dimension" name="edMenuSize"/><attr format="dimension" name="edTouchBezelSize"/><attr format="integer" name="edMaxAnimationDuration"/><attr format="integer" name="edPosition"/></declare-styleable>
+</resources>
